@@ -108,7 +108,7 @@
 ---
 
 ## 🎯 Goals
-- 🚀 Crack product-based company (6–10 LPA)
+- 🚀 Explore the core inside Development
 - 🔥 Master backend engineering
 - 💡 Build scalable real-world systems
 
